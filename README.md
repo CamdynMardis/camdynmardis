@@ -16,3 +16,15 @@ Business CIS Student | Carpenter & Aspiring Developer
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/camdynmardis" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.linkedin.com/in/camdyn-mardis-8540a7249/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
+
+
+
+## My Projects
+
+### Exterminate or Be Exterminated
+
+A hidden-pest game where players search household objects before their searches run out.
+
+- [Play the Concept Game](https://camdynmardis.github.io/Exterminate-or-be-Extermianted-miniature-octo/index.html)
+- [Play the Full Game](https://camdynmardis.github.io/Exterminate-or-be-Extermianted-miniature-octo/pages/full-game/index.html)
+- [View the Repository](https://github.com/CamdynMardis/Exterminate-or-be-Extermianted-miniature-octo)
